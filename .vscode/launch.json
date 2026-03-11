@@ -8,7 +8,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch Chrome",
-      "url": "https://clbesme.github.io/test01/",
+      "url": "https://clbesme.github.io/test02/",
       "webRoot": "${workspaceFolder}"
     }
   ]
