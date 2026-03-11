@@ -5,7 +5,7 @@ img {
   transition: opacity 0.01s;
 }
 ul {
-  display: flex;
+  /*  display: flex; */
   list-style-type: none;
   padding: 10;
 }
