@@ -36,11 +36,10 @@ h1 {
 }
 
 #logobird {
-  width: 10%;
+  width: 5%;
   height: auto;
 }
 .nav-menu {
-  text-transform: uppercase;
   display: flex;
   list-style: none;
   margin: 0;
